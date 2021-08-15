@@ -1,0 +1,49 @@
+
+most important crome developer tools
+
+colorhunt-----------> for colors
+
+WEB DOCS MDN
+FAVICON.cc----------->  for image in title bar
+
+css3buttongenerator.com-----------> button generator 
+
+https://www.flaticon.com------->  for icon
+
+giphy.com   ------>for gif	
+
+pesticide.io  ----> box layout css
+
+ui-patterns.com ------------> for ui patterns
+
+dribble.com ------------> for different web designs
+
+sneakpeekit.com ---------> for practicing on interface design only by pencil (for wireframing)
+
+balsamiq.cloud---------> paid for wirframing
+
+fontawsome.com ------------>  free icons like playstore 
+
+codeply.com --------------> to play with code with different system looking featue
+
+
+bootsnip.com  -----------------> for bootsrap components example
+
+
+minify.com ------------------> to convert your css and javasript code to shorter form so that you
+ 				can also make your libraries like Bootsrap, jquery etc. it is also 
+				make your file smaller so that your code will be faster.
+
+
+jquery efect methods------------------>   animation through j query
+
+nodemon.io  ------------------------>  automatically reload the page for you
+
+
+npm.js ------------------------>  for js file installation
+
+
+any-api.com ---------------------> api world
+
+
+mailchimp api ----------------------->   for psting your values
